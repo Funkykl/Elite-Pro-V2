@@ -16,11 +16,11 @@ global.ownernumber = '24102692931' //ur owner number
 global.ownername = 'OKLMBOY-bot' //ur owner name
 global.websitex = "https://youtu.be/@elite-pro-empire"
 global.wagc = "https://whatsapp.com/channel/0029VaXaqHII1rcmdDBBsd3g"
-global.themeemoji = '👨🏼‍💻'
+global.themeemoji = '∆'
 global.wm = "ELITE-PRO-V2"
 global.botscript = 'https://github.com/Elite-MD/ELITE-PRO-V2' //script link
 global.packname = "OKLMBOY"
-global.author = "OKLMBOY-bot"
+global.author = "|•OKLMBOY•|"
 global.creator = "24102692931@s.whatsapp.net"
 global.xprefix = '.'
 global.premium = ["24102692931"] // Premium User
@@ -42,7 +42,7 @@ global.mess = {
 	nsfw: 'Nsfw is disabled in this group, Please tell the admin to enable',
     done: 'Done✓',
     error: 'Error!',
-    success: 'Here you go!'
+    success: 'DANS SON CUL MON GARS'
 }
 //thumbnail
 global.thumb = fs.readFileSync('./EliteProMedia/theme/elitepro.png')
